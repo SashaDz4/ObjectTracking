@@ -9,7 +9,7 @@ This project is a simple video tracking application using OpenCV and Tkinter.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SashaDz4/ObjectTracker.git
+   git clone https://github.com/SashaDz4/ObjectTracking.git
    ```
 2. Install the required packages:
    ```bash
