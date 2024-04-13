@@ -3,7 +3,7 @@
 This project is a simple video tracking application using OpenCV and Tkinter.
 
 ## Demo
-![Demo](demo.gif)
+![Demo](ObjectTrack.gif)
 
 ## Installation
 
